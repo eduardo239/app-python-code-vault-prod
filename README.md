@@ -13,6 +13,8 @@ A secure code storage application.
    3.2 Windows: ```.venv\Scripts\activate```  
 4. Run the application  
    4.1 ```python main.py```  
+5. Install requirements  
+   5.1 ```pip install -r requirements.txt```  
 5. Deactivate  
    5.1 ```deactivate```  
 
