@@ -1,0 +1,6 @@
+cffi==1.17.1
+colorama==0.4.6
+cryptography==45.0.5
+pycparser==2.22
+pyotp==2.9.0
+qrcode==8.2
