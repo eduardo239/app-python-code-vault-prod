@@ -23,4 +23,12 @@ A secure code storage application.
 Please make sure not to commit any sensitive files listed in .gitignore.
 
 
-.
+## Running Tests
+
+To run the tests, follow these steps:
+
+1. Ensure you're in the project root directory and your virtual environment is activated.
+2. Run the following command:
+```python
+python -m unittest discover tests
+```
